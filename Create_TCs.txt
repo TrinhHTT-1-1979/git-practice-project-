@@ -1,1 +1,4 @@
-Template a file TCs
+Rule Tcs  
+GUI
+Function
+- Header :  No. | Screen Name / Function Name| Sub-Function Name | Point / Item | Test Objective | Pre-condition | Step | Result | Test Result | Executed Date | Tester	| Note |
